@@ -87,6 +87,8 @@ input, select, textarea {
   -ms-appearance: none;
   appearance: none; }
 
+}
+
 /* Typography */
 html {
   font-size: 13pt; }
